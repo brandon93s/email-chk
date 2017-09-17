@@ -4,7 +4,14 @@
   "description": "Check if an email exists",
   "main": "index.js",
   "repository": "brandon93s/email-chk",
-  "keywords": ["email", "check email", "verify email", "email exists", "is real email", "email is real"],
+  "keywords": [
+    "email",
+    "check email",
+    "verify email",
+    "email exists",
+    "is real email",
+    "email is real"
+  ],
   "author": "Brandon Smith",
   "license": "MIT",
   "scripts": {

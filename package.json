@@ -11,6 +11,10 @@
     "start": "node index.js",
     "test": "ava --verbose"
   },
+  "dependencies": {
+    "email-regex": "^1.0.0",
+    "pify": "^3.0.0"
+  },
   "devDependencies": {
     "ava": "latest",
     "eslint": "latest",

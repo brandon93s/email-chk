@@ -1,6 +1,6 @@
 # email-chk [![Build Status](https://travis-ci.org/brandon93s/email-chk.svg?branch=master)](https://travis-ci.org/brandon93s/email-chk)
 
-> Checks if a given email is valid and real by contacting the associated remote mail server  :email:
+> Checks if an email is valid & real by contacting the associated remote mail server  :email:
 
 
 ## Install
@@ -34,7 +34,7 @@ emailChk('test@example.com')
 
 ### emailChk(email [,options])
 
-Returns a `boolean` stating if the email is valid and real
+Returns a `boolean` representing if the email is valid & real
 
 #### email
 

@@ -22,12 +22,19 @@ try {
 catch (e) {
   // connection refused or server error occurred
 }
+
+// or
+emailChk('test@example.com')
+  .then(console.log)
+  .catch(console.error)
 ```
 
 
 ## API
 
 ### emailChk(email [,options])
+
+Returns a `boolean` stating if the email is valid and real
 
 #### email
 

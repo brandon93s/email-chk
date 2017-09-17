@@ -1,6 +1,6 @@
 # email-chk [![Build Status](https://travis-ci.org/brandon93s/email-chk.svg?branch=master)](https://travis-ci.org/brandon93s/email-chk)
 
-> Checks if a given email is valid and whether or not it actually exists by contacting the remote mail server  :email:
+> Checks if a given email is valid and real by contacting the associated remote mail server  :email:
 
 
 ## Install
@@ -17,7 +17,7 @@ $ npm install --save email-chk
 const emailChk = require('email-chk')
 
 try {
-  const exists = emailChk('test@example.com')
+  const exists = await emailChk('test@example.com')
 } 
 catch (e) {
   // connection refused or server error occurred

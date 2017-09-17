@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Check if an email exists",
   "main": "index.js",
-  "repository": "",
-  "keywords": [],
+  "repository": "brandon93s/email-chk",
+  "keywords": ["email", "check email", "verify email", "email exists", "is real email", "email is real"],
   "author": "Brandon Smith",
   "license": "MIT",
   "scripts": {

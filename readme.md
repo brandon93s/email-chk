@@ -68,7 +68,7 @@ The originating email for the request
 
 ## Related
 
-- [fast-cli](https://github.com/sindresorhus/fast-cli) - Verify an email 
+- [email-chk-cli](https://github.com/brandon93s/email-chk-cli) - CLI for this module 
 
 ## License
 

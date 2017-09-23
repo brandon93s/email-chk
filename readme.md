@@ -2,7 +2,7 @@
 
 > Checks if an email is valid & real by contacting the associated remote mail server  :email:
 
-
+*See [email-chk-cli](https://github.com/brandon93s/email-chk-cli) for the command-line tool.*
 ## Install
 
 ```
@@ -66,6 +66,9 @@ Default: `email`
 
 The originating email for the request
 
+## Related
+
+- [fast-cli](https://github.com/sindresorhus/fast-cli) - Verify an email 
 
 ## License
 

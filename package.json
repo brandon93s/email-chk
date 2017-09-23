@@ -1,6 +1,6 @@
 {
   "name": "email-chk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if an email exists",
   "main": "index.js",
   "repository": "brandon93s/email-chk",

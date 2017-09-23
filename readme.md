@@ -69,6 +69,7 @@ The originating email for the request
 ## Related
 
 - [email-chk-cli](https://github.com/brandon93s/email-chk-cli) - CLI for this module 
+- [email-chk-lambda](https://github.com/brandon93s/email-chk-lambda) - Lambda function for this module
 
 ## License
 
